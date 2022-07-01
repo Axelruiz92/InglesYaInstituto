@@ -130,7 +130,7 @@ button:hover {
         rgba(0,0,0,0.5),
         rgba(0,0,0,0.5)
     )
-    ,url(../portfolio/imagenes/ingles.jpg);
+    ,url('imagenes/ingles.jpg');
     background-repeat: no-repeat;
     background-size: cover; 
     background-position: initial;
@@ -238,7 +238,7 @@ button:hover {
         rgba(0,0,0,0.5),
         rgba(0,0,0,0.5)
     )
-    ,url(../portfolio/imagenes/profe1b.jpg);
+    ,url('imagenes/profe1b.jpg');
  
 }
 
@@ -248,7 +248,7 @@ button:hover {
         rgba(0,0,0,0.5),
         rgba(0,0,0,0.5)
     )
-    ,url(../portfolio/imagenes/profe2.jpg);
+    ,url('imagenes/profe2.jpg');
     
 
 }
@@ -259,7 +259,7 @@ button:hover {
         rgba(0,0,0,0.5),
         rgba(0,0,0,0.5)
     )
-    ,url(../portfolio/imagenes/profe3b.jpg);
+    ,url('imagenes/profe3b.jpg');
 
 }
 
@@ -306,7 +306,7 @@ height: 630px;
     margin: 0px 25px 0px 25px;
     width: 70%;
     height: 320px;
-    background-image: url(../portfolio/imagenes/uk1.jpg);
+    background-image: url('imagenes/uk1.jpg');
     background-position: center center;
     background-repeat: no-repeat;
     background-size: contain;
@@ -514,7 +514,7 @@ footer .container {
     margin: 0px 25px 60px 25px;
     width: 90%;
     height: 200px;
-    background-image: url(../portfolio/imagenes/uk2.jpg);
+    background-image: url('imagenes/uk2.jpg');
     background-position: center center;
     background-repeat: no-repeat;
     background-size: contain;
